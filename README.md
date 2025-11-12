@@ -1,11 +1,54 @@
 qa-portfolio    
 
 /test-cases
+
 /bug-reports
+
 /checklists
+
 /exploratory-sessions
+
 /test-plans
-/screenshots
+
+/screenshots/ screencasts
+
+# Test Case: Add a product to the Bag
+
+**Client:** Confidential
+
+**Test ID:** NDA
+
+**URL:** NDA
+
+**Preconditions:**
+-Tester on mobile device (IPhone 13 Mini)
+
+-Browser: Google Chrome
+
+-Non-US locales, only test on US store
+
+-submit report in EN
+
+## Test Steps:
+1.Go to: (URL under NDA)
+
+2.Tap on *Hamburger Menu*
+
+3.Tap on category *Women's*
+
+4.Tap on subcategory *Shop all Women's*
+
+5.Tap on any *PDP* tile for example *Name under NDA*
+
+6. Select size
+   
+7.Tap on *Add to bag* button
+
+## Expected Result
+User successfully added product to the bag.
+
+
+
 
 # Bug Report: Sticky size selector overlaps "Name under NDA" section
 **Type:** Visual
@@ -19,12 +62,19 @@ qa-portfolio
 4. Scroll down the *PDP* until floating size icon shows up
 5. Tap on "Name under NDA" icon in the header
 
-## Actual result:
+## Actual Result:
 The size selector overlaps and covers "Name under NDA" section. 
 
-## Expected result:
+## Expected Result:
 The sticky size selector icon should remain propelry positioned and not cover other content, including "Name under NDA" section, during scrolling and interactions.
 
 ##Environment:
+
 Device: Apple Iphone 13 mini, iOS 18.6.2
+
 Browser: Google Chrome
+
+
+## Bug Report": 
+
+**Screencast:** [View video] (
