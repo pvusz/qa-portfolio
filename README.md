@@ -81,4 +81,4 @@ Browser: Google Chrome
 1. Go to: https://www.philips.pl/
 
 
-**Screencast:** [View video] 
+**Screencast:** [View video]
