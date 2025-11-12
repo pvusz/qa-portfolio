@@ -77,4 +77,8 @@ Browser: Google Chrome
 
 ## Bug Report": 
 
-**Screencast:** [View video](](https://github.com/pvusz/qa-portfolio/blob/main/2025-11-12%2019-00-35.mkv)
+##Steps: 
+1. Go to: https://www.philips.pl/
+
+
+**Screencast:** [View video](https://github.com/pvusz/qa-portfolio/blob/main/2025-11-12%2019-00-35.mkv)
