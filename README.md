@@ -81,4 +81,4 @@ Browser: Google Chrome
 1. Go to: https://www.philips.pl/
 
 
-**Screencast:** [View video](https://github.com/pvusz/qa-portfolio/blob/main/2025-11-12%2019-00-35.mkv)
+**Screencast:** [View video] 
