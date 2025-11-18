@@ -29,6 +29,8 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 ### 🐞 Bug Reports (Recreated examples, NDA-safe)
 - **[Bug Report: Cashback banner "Kup szczoteczkę Philips i odbierz zwrot" link redirects to wrong page](bug_report_Philips.md)**  
   *Type: Functional | Severity: High*
+  - **[Bug Report:Sticky size selector overlaps "Name under NDA" section]()**  
+  *Type: Visual*
 
 # Test Case: Add a product to the Bag
 
@@ -66,33 +68,6 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 User successfully added product to the bag.
 
 **Screenshot:** Under NDA 
-
-
-
-# Bug Report: Sticky size selector overlaps "Name under NDA" section
-
-**Bug Type:** Visual
-
-**Feature:** Product Details Page (PDP)
-
-## Steps:
-1. Go to: (URL under NDA)
-2. Tap on *Shop Men's* button on "Name under NDA" banner
-3. Tap on any *PDP* tile for example "Name under NDA"
-4. Scroll down the *PDP* until floating size icon shows up
-5. Tap on "Name under NDA" icon in the header
-
-## Actual Result:
-The size selector overlaps and covers "Name under NDA" section. 
-
-## Expected Result:
-The sticky size selector icon should remain propelry positioned and not cover other content, including "Name under NDA" section, during scrolling and interactions.
-
-## Environment
-
-Device: Apple Iphone 13 mini, iOS 18.6.2
-
-Browser: Google Chrome
 
 
 
