@@ -29,7 +29,7 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 ### 🐞 Bug Reports (Recreated examples, NDA-safe)
 - **[Bug Report: Cashback banner "Kup szczoteczkę Philips i odbierz zwrot" link redirects to wrong page](bug_report_Philips.md)**  
   *Type: Functional | Severity: High*
-  - **[Bug Report:Sticky size selector overlaps "Name under NDA" section](bug_report_test_io_1.md)**  
+- **[Bug Report:Sticky size selector overlaps "Name under NDA" section](bug_report_test_io_1.md)**  
   *Type: Visual*
 
 ### 📌 Test Cases
