@@ -46,6 +46,6 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 
 **LinkedIn:** www.linkedin.com/in/paulina-szulc-475904201
 
-**GitHub:**
+**GitHub:** https://github.com/pvusz
 
 ### 🚀 Thanks for visiting my QA portfolio!
