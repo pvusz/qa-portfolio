@@ -1,16 +1,34 @@
-qa-portfolio    
 
-/test-cases
+# 🧪 Manual QA Tester Portfolio
 
-/bug-reports
+## 👋 Hi, I'm Paulina  
+Junior Manual Tester with hands-on experience in web & mobile testing gained through crowdtesting platforms (TestIO).  
+I focus on functional testing, usability, exploratory testing and clear bug reporting in English.
 
-/checklists
+---
 
-/exploratory-sessions
+## 🔧 Tech Skills
+- Functional testing  
+- Exploratory testing  
+- Regression testing  
+- Mobile testing (iOS)  
+- Cross-browser testing  
+- API basics (Postman – beginner)   
+- Writing bug reports, test cases, checklists  
 
-/test-plans
+**Tools:**  
+Jira · TestIO · GitHub · Chrome DevTools · Postman (basic) · 
 
-/screenshots/ screencasts
+**Devices used in testing:**  
+iPhone 13 Mini, iPad 9th gen, Windows 10
+
+---
+
+## 📂 Portfolio
+
+### 🐞 Bug Reports (Recreated examples, NDA-safe)
+- **[Bug Report: Incorrect Page Redirect](link_do_pliku)**  
+  *Type: Functional | Severity: High*
 
 # Test Case: Add a product to the Bag
 
@@ -77,33 +95,4 @@ Device: Apple Iphone 13 mini, iOS 18.6.2
 Browser: Google Chrome
 
 
-## Bug Report": Cashback banner "Kup szczoteczkę Philips i odbierz zwrot" link redirects to wrong page
 
-**Bug Type:** Functional
-
-**Feature:** Navigation
-
-**Severity:** High
-
-## Steps: 
-1. Go to: https://www.philips.pl/
-2. Click on electric brush icon on slider banner
-3. Click on "Dowiedz się więcej" button on the same banner
-4. Click on link "https://www.philips.pl/c-w/promocje/cashback-philips-sonicare.html" on next banner you were redirected with caption "Elektryczne szczoteczlo do zębów z technologią soniczną Philips Sonicare"
-5. Click on link "www.inwestycjawusmiech.pl" on banner under caption "Kup szczoteczkę Philips i odbierz zwrot"
-
-## Actual Results
-
-After clicking link, user is redirected to the electric shaver cashback page instead of the electric toothbrush cashback page. 
-
-## Expected Results 
-
-Clicking the link should navigate user to the correct product page for the electric toothbrush offer.
-
-## Envinronment
-
-Device: Computer, Windows 10
-
-Browser: Firefox
-
-**Screencast:** [View video](philips.navigation-bug.mp4)
