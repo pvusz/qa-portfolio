@@ -14,10 +14,10 @@ I focus on functional testing, usability, exploratory testing and clear bug repo
 - Mobile testing (iOS)  
 - Cross-browser testing  
 - API basics (Postman – beginner)   
-- Writing bug reports, test cases, checklists  
+- Writing bug reports, test cases, checklists
 
 **Tools:**  
-Jira · TestIO · GitHub · Chrome DevTools · Postman (basic) · 
+Jira · TestIO · GitHub · Chrome DevTools · Postman (basic) · SQL (in progress) 
 
 **Devices used in testing:**  
 iPhone 13 Mini, iPad 9th gen, Windows 10
@@ -35,6 +35,16 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 ### 📌 Test Cases
 - **[Test Case: Adding Product To Bag](TC01_Add_To_Bag.md)**  
 
+## 📜 Courses & Learning
+- Podstawy manualnego testowania oprogramowania course (Udemy)
+- Praktyczny kurs testowania
+- Certyfikowany tester ISTQB Poziom Podstawowy, A. Roman, L. Stapp. M. Pilaten (Book)
+- Certyfikowany tester, Sylabus poziomu podstawowego wersja 4.0.1
 
 
+## 📫 Contact
 
+**LinkedIn:** www.linkedin.com/in/paulina-szulc-475904201
+**GitHub:**
+
+### 🚀 Thanks for visiting my QA portfolio!
