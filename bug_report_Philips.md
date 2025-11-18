@@ -28,4 +28,4 @@ Device: Computer, Windows 10
 Browser: Firefox
 
 ## Screencast
-[Click to watch the bug video]((philips.navigation-bug.mp4)
+[Click to watch the bug video](philips.navigation-bug.mp4)
