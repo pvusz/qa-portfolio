@@ -27,7 +27,7 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 ## 📂 Portfolio
 
 ### 🐞 Bug Reports (Recreated examples, NDA-safe)
-- **[Bug Report: Cashback banner "Kup szczoteczkę Philips i odbierz zwrot" link redirects to wrong page](link_do_pliku)**  
+- **[Bug Report: Cashback banner "Kup szczoteczkę Philips i odbierz zwrot" link redirects to wrong page](bug_report_Philips.md)**  
   *Type: Functional | Severity: High*
 
 # Test Case: Add a product to the Bag
