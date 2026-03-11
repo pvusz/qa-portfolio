@@ -13,7 +13,7 @@ I focus on functional testing, usability, exploratory testing and clear bug repo
 - Regression testing  
 - Mobile testing (iOS)  
 - Cross-browser testing  
-- API basics (Postman – beginner)   
+- API basics (Postman – basics)   
 - Writing bug reports, test cases, checklists
 
 **Tools:**  
@@ -39,7 +39,7 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 - Podstawy manualnego testowania oprogramowania course (Udemy)
 - Praktyczny kurs testowania
 - Certyfikowany tester ISTQB Poziom Podstawowy, A. Roman, L. Stapp. M. Pilaten (Book)
-- Certyfikowany tester, Sylabus poziomu podstawowego wersja 4.0.1
+- Sylabus poziomu podstawowego ISTQB wersja 4.0.1
 
 
 ## 📫 Contact
