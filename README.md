@@ -28,7 +28,8 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 
 PROJECTS:
 - **API testing of appointment booking system**
-Project desciption:
+  
+Project description:
 Aim of this project is to test REST API of users and bookings managament application. 
 
 
