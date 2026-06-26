@@ -27,7 +27,7 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 ## 📂 Portfolio
 
 ## PROJECTS:
-**API Testing Project - E-commerce API**
+**API Testing Project - E-commerce API (API Testing Project)**
   
 
 
