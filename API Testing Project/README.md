@@ -1,4 +1,4 @@
-# API Testing Project – E-commerce API
+# API Testing Project.md  – E-commerce API
 
 ## Objective
 Manual testing of REST API for an e-commerce application.
