@@ -27,9 +27,8 @@ iPhone 13 Mini, iPad 9th gen, Windows 10
 ## 📂 Portfolio
 
 ## PROJECTS:
-**API Testing Project - E-commerce API (API Testing Project)**
   
-
+**[API Testing Project E-commerce API](https://github.com/pvusz/qa-portfolio/tree/main/API%20Testing%20Project)**
 
 ### 🐞 Bug Reports (Recreated examples, NDA-safe)
 - **[Bug Report: Cashback banner "Kup szczoteczkę Philips i odbierz zwrot" link redirects to wrong page](bug_report_Philips.md)**  
